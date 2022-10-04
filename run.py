@@ -63,7 +63,7 @@ def start():
 CreditFont = pygame.font.Font('freesansbold.ttf', 32)
 def credit():
 
-    display = CreditFont.render(f"Made By Wuttichai", True, (255, 248, 0))
+    display = CreditFont.render(f"Made By Wuttichai and Thanesuan", True, (255, 248, 0))
     SCREEN.blit(display, (500, 0))
     pygame.display.update()
 
