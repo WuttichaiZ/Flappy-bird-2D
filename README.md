@@ -1,2 +1,3 @@
 # Flappy-bird-2D
-This is a flappy bird game made by a student from tessaban 1 [engsiangsamakkee]
+A Flappy bird game made by a student from tessaban 1 [engsiangsamakkee]
+This is my first game ever so it will have some glitch :D
